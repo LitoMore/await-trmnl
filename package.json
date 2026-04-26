@@ -1,0 +1,14 @@
+{
+  "name": "await-trmnl",
+  "private": true,
+  "author": "LitoMore",
+  "repository": "LitoMore/await-trmnl",
+  "license": "MIT",
+  "scripts": {
+    "test": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@await-widget/runtime": "^0.0.1",
+    "typescript": "^6.0.2"
+  }
+}
