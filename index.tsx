@@ -4,7 +4,7 @@ type JsonObject = Record<string, unknown>;
 
 const imageUrlStoreKey = "trmnl.imageUrl";
 
-// @panel
+// @panel {type:'password'}
 const trmnlDeviceApiKey = "";
 // @panel
 const apiBaseUrl = "https://trmnl.com";
